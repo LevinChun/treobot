@@ -3,27 +3,27 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+    "t/help",
+    "t/invite",
+    "t/lyrics",
+    "t/ping",
+    "t/stats",
+    "t/setdj",
+    "t/play",
+    "t/serach",
+    "t/stop",
+    "t/skip",
+    "t/back",
+    "t/clear",
+    "t/time",
+      "t/queue",
+      "t/pause",
+      "t/resume",
+      "t/volume",
+      "t/nowplaying",
+      "t/save",
+      "t/loop",
+      "t/filter"
       ]
   return (
     <>
@@ -90,7 +90,7 @@ Invite Astra</a>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ZcDprCrFTn"}>
+  <Link href={"https://discord.gg/ZbjrDeSd6v"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Support Server</a>
   </Link>
