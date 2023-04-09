@@ -36,7 +36,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        You can get information about the commands of the Treo Bot.
         </p>
 
         <div>
@@ -85,7 +85,7 @@ export default function Commands() {
   
   <Link href={"https://bit.ly/3PHDjyC"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Invite Treo</a>
   </Link>
 
   <div className="py-10"></div>
